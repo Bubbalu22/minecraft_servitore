@@ -1,0 +1,2 @@
+# minecraft_servitore
+Minecraftサーバーを保存するために作成されたリポジトリ。
